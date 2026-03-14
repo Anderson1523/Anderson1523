@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Anderson de Sousa Alves 👋
 
-<!--
-**Anderson1523/Anderson1523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tech Lead | Fullstack Developer | Software Architect
 
-Here are some ideas to get you started:
+I'm a Tech Lead based in Fortaleza, Brazil, currently working at **Camed Saúde**. With a strong background in web development and architecture, I lead teams and build scalable solutions using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Backend:** C#, ASP.NET Core, Laravel (PHP), Node.js
+- **Frontend:** React, JavaScript, TypeScript, Tailwind CSS
+- **Database:** SQL Server, MySQL, PostgreSQL
+- **Others:** AI Automation, Docker, CI/CD, Git
+
+---
+
+### 🔭 Current Projects & Interests
+- 🎮 **Hytale Server:** Working on a custom Rankup server architecture.
+- 🤖 **AI Content:** Exploring AI video generation for social media and financial life hacks.
+- 🏎️ **Automotive Detailing:** Passionate about car care and precision.
+
+---
+
+### 📊 GitHub Stats
+![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson1523&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1523&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+[LinkedIn](SEU_LINK_AQUI) | [Email](SEU_EMAIL_AQUI)
