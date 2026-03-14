@@ -27,6 +27,3 @@ I'm a Tech Lead based in Fortaleza, Brazil, currently working at **Camed Saúde*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1523&layout=compact&theme=radical)
 
 ---
-
-### 📫 Let's Connect
-[LinkedIn](SEU_LINK_AQUI) | [Email](SEU_EMAIL_AQUI)
